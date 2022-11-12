@@ -1,0 +1,13 @@
+Host: 0.0.0.0:5000
+Connection: keep-alive
+Accept: application/json
+Geo-Location: undefined
+Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2Njc5ODU2NjgsIm5iZiI6MTY2Nzk4NTY2OCwianRpIjoiZDhhZmMzZjEtMzgzNS00OTM4LTk2NzgtZDRiYzBmYzVhZWEwIiwiZXhwIjoxNjY3OTg2NTY4LCJpZGVudGl0eSI6InJhbW9uLnZhbGVyYUBnbWFpbC5jb20iLCJmcmVzaCI6ZmFsc2UsInR5cGUiOiJhY2Nlc3MifQ.7Jcu5gl6xqfPyHS3VQ2jKxn5Dsdwjzq9AR_iDn_i2ek
+User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+Content-Type: application/json
+Origin: http://localhost:8080
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate
+Accept-Language: es-ES,es;q=0.9,en;q=0.8
+
+
