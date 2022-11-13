@@ -38,3 +38,14 @@ Running tests:
 
 ----------
 I will be glad to feedback!
+
+### Imagenes Backend Python
+
+
+![Image text](https://github.com/git-nfonseca/sinergia-backend/blob/f0766d5d8ecd513c4b44e35beb034caf31f0b653/assets/Screenshot%20from%202022-11-12%2023-29-38.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-backend/blob/f0766d5d8ecd513c4b44e35beb034caf31f0b653/assets/Screenshot%20from%202022-11-12%2023-30-11.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-backend/blob/f0766d5d8ecd513c4b44e35beb034caf31f0b653/assets/Screenshot%20from%202022-11-12%2023-30-50.png)
+
+![Image text](https://github.com/git-nfonseca/sinergia-backend/blob/f0766d5d8ecd513c4b44e35beb034caf31f0b653/assets/Screenshot%20from%202022-11-12%2023-32-54.png)
